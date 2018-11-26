@@ -4,7 +4,13 @@
   "output": "./output",
   "helpers": {
     "Puppeteer": {
-      "url": "http://www.google.com"
+      "url": "http://www.google.com",
+      "show": true,
+      "chrome": {
+        "args": [ 
+          "--window-size=400,400"
+        ]
+      }
     }
   },
   "include": {

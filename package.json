@@ -5,5 +5,8 @@
   "license": "MIT",
   "dependencies": {
     "codeceptjs": "^1.4.6"
+  },
+  "devDependencies": {
+    "puppeteer": "^1.10.0"
   }
 }
