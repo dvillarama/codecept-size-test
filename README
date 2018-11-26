@@ -13,5 +13,5 @@ yarn install
 
 # Run
 ```
-yarn codeceptjs go
+yarn codeceptjs run
 ```
